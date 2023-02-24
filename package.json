@@ -17,5 +17,16 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josiasjp/App-React-Native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josiasjp/App-React-Native/issues"
+  },
+  "homepage": "https://github.com/josiasjp/App-React-Native#readme",
+  "description": ""
 }
